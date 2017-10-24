@@ -1,0 +1,19 @@
+i'm,i am
+he's,he is
+she's,she is
+it's,it is
+that's,that is
+what's,that is
+where's,where is
+how's,how is
+\'ll, will
+\'ve, have
+\'re, are
+\'d, would
+\'re, are
+won't,will not
+can't,cannot
+n't, not
+n',ng
+'bout,about
+'til,until
